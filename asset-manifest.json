@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/csweb/static/css/main.519ca0c0.css",
+    "main.js": "/csweb/static/js/main.baff40ac.js",
+    "static/js/453.ed3810f9.chunk.js": "/csweb/static/js/453.ed3810f9.chunk.js",
+    "static/media/wafa.jpg": "/csweb/static/media/wafa.3002fc90056f41813b0c.jpg",
+    "static/media/IMG_E0629.png": "/csweb/static/media/IMG_E0629.538170dfd1b87a6fcd17.png",
+    "static/media/IMG_E0607.png": "/csweb/static/media/IMG_E0607.7551c0d3e5d8cef7d10e.png",
+    "static/media/IMG_E0625.png": "/csweb/static/media/IMG_E0625.7aa27fbefba5d4dec34d.png",
+    "static/media/IMG_E0627.png": "/csweb/static/media/IMG_E0627.b7d9ee02afced88bf1f3.png",
+    "static/media/IMG_E0604.png": "/csweb/static/media/IMG_E0604.071f70285085a59c9545.png",
+    "static/media/IMG_E0589.png": "/csweb/static/media/IMG_E0589.4d9e3769efcc1905e44a.png",
+    "static/media/IMG_E0618.png": "/csweb/static/media/IMG_E0618.1df3114ec148448e8e46.png",
+    "static/media/IMG_E0606.png": "/csweb/static/media/IMG_E0606.df89e0cca11b4590704e.png",
+    "static/media/IMG_E0610.png": "/csweb/static/media/IMG_E0610.9df7640c7522d06cd692.png",
+    "static/media/alaa.png": "/csweb/static/media/alaa.f51cdd47ac00611cafee.png",
+    "static/media/IMG_E0603.png": "/csweb/static/media/IMG_E0603.e25f58f34d8624dd4967.png",
+    "static/media/IMG_E0583.png": "/csweb/static/media/IMG_E0583.8773a5b3b0fd359eba39.png",
+    "static/media/IMG_E06051.png": "/csweb/static/media/IMG_E06051.a4f3f87bee82ce128b54.png",
+    "static/media/IMG_E0582.png": "/csweb/static/media/IMG_E0582.2243b01af957718801e2.png",
+    "static/media/anas.jpg": "/csweb/static/media/anas.a6c38c2944d5ae51b9f1.jpg",
+    "static/media/israa.jpg": "/csweb/static/media/israa.bedda827484ef1b675d2.jpg",
+    "static/media/iyad.jpg": "/csweb/static/media/iyad.1c6eb0da747be45da80e.jpg",
+    "static/media/oumayma.jpg": "/csweb/static/media/oumayma.2c038fc8cfe32ead713e.jpg",
+    "static/media/cslogo.png": "/csweb/static/media/cslogo.926460ed65b2bb8ff358.png",
+    "static/media/ieee cs.png": "/csweb/static/media/ieee cs.5f58897204380b10305a.png",
+    "index.html": "/csweb/index.html",
+    "main.519ca0c0.css.map": "/csweb/static/css/main.519ca0c0.css.map",
+    "main.baff40ac.js.map": "/csweb/static/js/main.baff40ac.js.map",
+    "453.ed3810f9.chunk.js.map": "/csweb/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519ca0c0.css",
+    "static/js/main.baff40ac.js"
+  ]
+}
