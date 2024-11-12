@@ -1,0 +1,106 @@
+.event{
+  display: flex;
+  gap: 12rem;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+
+.choufli{
+  display: flex;
+  height: 350px;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  flex-direction: row;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.312),
+  -15px -15px 30px rgba(0, 0, 0, 0.312);
+}
+
+#pic_choufli{
+  height: 340px;
+  width: 65%;
+  border-radius: 20px;
+  background-size: cover;
+}
+
+.icon{
+  cursor: pointer;
+  height: 30px;
+  background-color: #ff9900;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.scroll{
+  height: 300px;
+  width: 50%;
+  gap: 5px;
+  display: flex;
+  align-items: center;
+}
+.scroll1{
+  height: 300px;
+  width: 50%;
+  gap: 5px;
+  display: flex;
+  align-items: center;
+  direction: rtl;
+}
+
+.Bizerte{
+  margin-top: 15rem;
+  display: flex;
+  align-items: center;
+  height: 350px;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.312),
+  -15px -15px 30px rgba(0, 0, 0, 0.312);
+}
+
+#pic_bizerte{
+  height: 340px;
+  border-radius: 20px;
+  width: 65%;
+  background-size: cover;
+}
+
+.text{
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.text h2{
+  color: #e08600;
+  font-size: 2rem; 
+}
+.text p{
+  font-size: 1.3rem;
+  width: 65%;
+  color: #CE7C00;
+}
+
+.left{
+  margin-left: 20px;
+}
+
+.right1{
+  margin-left: 20% ;
+
+}
+
+.right,.left,.right1,.left1{
+  transition: transform 0.3s ease-in-out;
+}
+.right:hover, .left1:hover{
+  transform: translateX(5px);
+  background-color: #e08600;
+}
+.left:hover,.right1:hover{
+  transform: translateX(-5px);
+  background-color: #e08600;
+}

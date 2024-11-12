@@ -1,0 +1,70 @@
+/*about section*/
+.about{
+  width: 100%;
+  display: flex;
+  gap: 8rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#chapter_overiew{
+  width: 100%;
+  display: flex;
+  direction: rtl;
+  margin-bottom: 50px;
+}
+
+.chapter_overiew{
+  height: 300px;
+  color: #e08600;
+  width: 50%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.312),
+  -15px -15px 30px rgba(0, 0, 0, 0.312);
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+
+.Engaging{
+  width: 80%;
+  font-size: 1.2rem;
+}
+
+
+#about_us{
+  width: 100%;
+  display: flex;
+  direction: ltr;
+  margin-bottom: 2rem;
+}
+
+.about_us{
+  height: 300px;
+  color: #e08600;
+  width: 50%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.312),
+  -15px -15px 30px rgba(0, 0, 0, 0.312);
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+
+.the{
+  width: 80%;
+  font-size: 1.2rem;
+}
+
+/*statics part*/

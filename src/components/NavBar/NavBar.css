@@ -1,0 +1,71 @@
+.logo{
+  height: 110px;
+}
+
+
+.navBar{
+  align-items: center;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.312),
+             -15px -15px 30px rgba(0, 0, 0, 0.312);
+  position: fixed;
+  display: flex;
+  z-index: 2;
+  justify-content: space-between;
+  flex-direction: row;
+  color: #CE7C00;
+  height: 76px;
+  width: 100%;
+  background-color: #fff;
+}
+
+
+.services{
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  width: 350px;
+  justify-content: space-around;
+}
+
+
+button{
+  font-size: 20px;
+  color: #ff9900;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  position: relative;
+  border: none;
+  background: none;
+  transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition-duration: 400ms;
+  transition-property: color;
+}
+
+
+button:focus,
+button:hover {
+  color: #ab6600;
+}
+
+
+button:focus:after,
+button:hover:after {
+  width: 100%;
+  left: 0%;
+}
+
+
+button:after,button::selection {
+  content: "";
+  pointer-events: none;
+  bottom: -2px;
+  left: 50%;
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  background-color: #ab6600;
+  transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition-duration: 400ms;
+  transition-property: width, left;
+}

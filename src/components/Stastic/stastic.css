@@ -1,0 +1,37 @@
+li{
+  list-style: none;
+}
+
+
+
+.stastics{
+  margin-top: 10rem;
+  background-color: #fff;
+  height: 2rempx;
+  gap: 50px;
+  width: 100%;
+  color: #ff9900;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.stat{
+  font-size: 2.5rem;
+}
+
+.ever{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.312),
+  -15px -15px 30px rgba(0, 0, 0, 0.312);
+}
+
+
+
+.number{
+  font-size: 3rem;
+}

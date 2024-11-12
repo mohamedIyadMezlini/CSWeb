@@ -1,0 +1,6 @@
+.main_pic{
+  height: 730px;
+  width: 100%;
+  background-image: url("../../assets/gallery/IMG_E06051.png");
+  background-size: cover;
+}
